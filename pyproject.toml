@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "rag-chatbox"
+version = "0.1.0"
+description = ""
+authors = ["hong tran <hong@elsanow.io>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+langchain = "^0.1.0"
+openai = "^1.7.2"
+langchain-openai = "^0.0.2"
+langchain-community = "^0.0.12"
+langchainhub = "^0.1.14"
+python-dotenv = "^1.0.1"
+chromadb = "^0.4.24"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
