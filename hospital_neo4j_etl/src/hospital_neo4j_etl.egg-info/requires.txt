@@ -1,0 +1,6 @@
+neo4j==5.14.1
+retry==0.9.2
+
+[dev]
+black
+flake8
