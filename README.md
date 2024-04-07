@@ -11,3 +11,6 @@ Rename example.env file to .env file and add value in env file
 
 ## Run docker-compse command
  docker-compose up --build
+
+ ## Demo
+ https://www.youtube.com/watch?v=bkgxjSZZxBw
